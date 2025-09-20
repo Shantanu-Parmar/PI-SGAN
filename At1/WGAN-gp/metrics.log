@@ -1,0 +1,10 @@
+Epoch 4, FID: 324.4348, Inception Score: 1.0000
+Epoch 9, FID: 359.5961, Inception Score: 1.0000
+Epoch 14, FID: 385.6709, Inception Score: 1.0000
+Epoch 19, FID: 332.9695, Inception Score: 1.0000
+Epoch 24, FID: 368.1274, Inception Score: 1.0000
+Epoch 29, FID: 316.5587, Inception Score: 1.0000
+Epoch 34, FID: 333.1300, Inception Score: 1.0000
+Epoch 39, FID: 315.6511, Inception Score: 1.0000
+Epoch 44, FID: 292.2198, Inception Score: 1.0000
+Epoch 49, FID: 309.4432, Inception Score: 1.0000
