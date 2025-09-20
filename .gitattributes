@@ -1,0 +1,4 @@
+At1/BigGAN/discriminator_checkpoint_epoch_99.pth filter=lfs diff=lfs merge=lfs -text
+At1/DDPM/ddpm_checkpoint_epoch_99.pth filter=lfs diff=lfs merge=lfs -text
+At1/DDIM/ddim_checkpoint_epoch_99.pth filter=lfs diff=lfs merge=lfs -text
+At1/CGAN/discriminator_checkpoint_epoch_99.pth filter=lfs diff=lfs merge=lfs -text
