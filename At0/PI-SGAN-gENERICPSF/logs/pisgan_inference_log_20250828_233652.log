@@ -1,0 +1,11 @@
+2025-08-28 23:36:52,211 - INFO - CUDA available: False
+2025-08-28 23:36:52,423 - INFO - Loaded checkpoint from D:/Shantanu/MBTR/DATA/logs/checkpoint_epoch_20.pth, epoch 19
+2025-08-28 23:36:53,426 - INFO - Saved inference samples for class 0 at D:/Shantanu/MBTR/DATA/images/test/
+2025-08-28 23:36:53,848 - INFO - Saved inference samples for class 1 at D:/Shantanu/MBTR/DATA/images/test/
+2025-08-28 23:36:54,257 - INFO - Saved inference samples for class 2 at D:/Shantanu/MBTR/DATA/images/test/
+2025-08-28 23:36:54,670 - INFO - Saved inference samples for class 3 at D:/Shantanu/MBTR/DATA/images/test/
+2025-08-28 23:36:55,081 - INFO - Saved inference samples for class 4 at D:/Shantanu/MBTR/DATA/images/test/
+2025-08-28 23:36:55,497 - INFO - Saved inference samples for class 5 at D:/Shantanu/MBTR/DATA/images/test/
+2025-08-28 23:36:55,933 - INFO - Saved inference samples for class 6 at D:/Shantanu/MBTR/DATA/images/test/
+2025-08-28 23:36:56,357 - INFO - Saved inference samples for class 7 at D:/Shantanu/MBTR/DATA/images/test/
+2025-08-28 23:36:56,358 - INFO - Inference complete.
