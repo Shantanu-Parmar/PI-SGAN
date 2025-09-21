@@ -1,0 +1,62 @@
+2025-09-18 20:22:46,275 - INFO - Image IMG20250104211035_BURST031.jpg: Betelgeuse at (344.5, 17.0), Bellatrix at (425.0, 572.0), Distance: 560.8 pixels
+2025-09-18 20:22:46,286 - INFO - Image IMG20250104211035_BURST049.jpg: Betelgeuse at (390.5, 192.5), Bellatrix at (462.5, 730.0), Distance: 542.3 pixels
+2025-09-18 20:22:46,295 - INFO - Image IMG20250104213759_BURST004.jpg: Betelgeuse at (410.0, 266.5), Bellatrix at (473.5, 789.0), Distance: 526.3 pixels
+2025-09-18 20:22:46,304 - INFO - Image IMG20250104213759_BURST020.jpg: Betelgeuse at (451.5, 419.5), Bellatrix at (515.0, 922.0), Distance: 506.5 pixels
+2025-09-18 20:22:46,313 - INFO - Image IMG20250104213759_BURST036.jpg: Betelgeuse at (483.5, 563.5), Bellatrix at (551.0, 1053.5), Distance: 494.6 pixels
+2025-09-18 20:22:46,344 - WARNING - Missing Betelgeuse or Bellatrix in IMG20250105224134_BURST009.txt
+2025-09-18 20:22:46,352 - WARNING - Missing Betelgeuse or Bellatrix in IMG20250105224134_BURST038.txt
+2025-09-18 20:22:46,379 - WARNING - Missing Betelgeuse or Bellatrix in IMG20250105224134_BURST040.txt
+2025-09-18 20:22:46,388 - INFO - Image IMG20250105231344_BURST008.jpg: Betelgeuse at (468.0, 1826.0), Bellatrix at (512.5, 2258.5), Distance: 434.8 pixels
+2025-09-18 20:22:46,398 - INFO - Image IMG20250105231344_BURST024.jpg: Betelgeuse at (500.5, 1940.0), Bellatrix at (546.5, 2380.0), Distance: 442.4 pixels
+2025-09-18 20:22:46,422 - INFO - Image IMG20250105231344_BURST042.jpg: Betelgeuse at (537.0, 2070.5), Bellatrix at (575.0, 2515.0), Distance: 446.1 pixels
+2025-09-18 20:22:46,447 - INFO - Image IMG20250115212139_BURST029.jpg: Betelgeuse at (402.0, 940.9), Bellatrix at (557.3, 1274.6), Distance: 368.1 pixels
+2025-09-18 20:22:46,456 - INFO - Image IMG20250115215412_BURST003.jpg: Betelgeuse at (420.5, 1526.0), Bellatrix at (533.0, 1955.5), Distance: 444.0 pixels
+2025-09-18 20:22:46,468 - INFO - Image IMG20250115215412_BURST022.jpg: Betelgeuse at (470.5, 1657.5), Bellatrix at (603.0, 2099.0), Distance: 461.0 pixels
+2025-09-18 20:22:46,479 - INFO - Image IMG20250115215412_BURST028.jpg: Betelgeuse at (504.5, 1713.0), Bellatrix at (605.5, 2127.5), Distance: 426.6 pixels
+2025-09-18 20:22:46,507 - INFO - Image IMG20250115215412_BURST031.jpg: Betelgeuse at (506.0, 1725.5), Bellatrix at (625.0, 2150.5), Distance: 441.3 pixels
+2025-09-18 20:22:46,516 - WARNING - Missing Betelgeuse or Bellatrix in IMG20250116195416_BURST031.txt
+2025-09-18 20:22:46,526 - WARNING - Missing Betelgeuse or Bellatrix in IMG20250116195416_BURST039.txt
+2025-09-18 20:22:46,536 - INFO - Image IMG20250116203344_BURST004.jpg: Betelgeuse at (184.5, 198.5), Bellatrix at (262.5, 750.5), Distance: 557.5 pixels
+2025-09-18 20:22:46,545 - INFO - Image IMG20250116203344_BURST009.jpg: Betelgeuse at (202.5, 257.0), Bellatrix at (269.5, 781.5), Distance: 528.8 pixels
+2025-09-18 20:22:46,554 - INFO - Image IMG20250116203344_BURST022.jpg: Betelgeuse at (234.0, 380.5), Bellatrix at (300.5, 897.5), Distance: 521.3 pixels
+2025-09-18 20:22:46,563 - INFO - Image IMG20250117232801_BURST023.jpg: Betelgeuse at (841.5, 1686.0), Bellatrix at (800.5, 2110.5), Distance: 426.5 pixels
+2025-09-18 20:22:46,574 - INFO - Image IMG20250117232801_BURST034.jpg: Betelgeuse at (846.0, 1771.0), Bellatrix at (809.5, 2189.5), Distance: 420.1 pixels
+2025-09-18 20:22:46,585 - INFO - Image IMG20250117232801_BURST040.jpg: Betelgeuse at (846.0, 1814.5), Bellatrix at (811.0, 2236.5), Distance: 423.5 pixels
+2025-09-18 20:22:46,595 - INFO - Image IMG20250118230637_BURST023.jpg: Betelgeuse at (644.5, 2076.5), Bellatrix at (685.0, 2508.0), Distance: 433.4 pixels
+2025-09-18 20:22:46,603 - INFO - Image IMG20250118230637_BURST027.jpg: Betelgeuse at (652.0, 2109.0), Bellatrix at (696.5, 2535.5), Distance: 428.8 pixels
+2025-09-18 20:22:46,613 - INFO - Image IMG20250118230637_BURST030.jpg: Betelgeuse at (653.5, 2125.0), Bellatrix at (700.5, 2559.0), Distance: 436.5 pixels
+2025-09-18 20:22:46,623 - INFO - Image IMG20250118233355_BURST047.jpg: Betelgeuse at (780.0, 2625.5), Bellatrix at (842.0, 3076.0), Distance: 454.7 pixels
+2025-09-18 20:22:46,631 - INFO - Image IMG20250119205411_BURST001.jpg: Betelgeuse at (517.5, 701.0), Bellatrix at (507.5, 1185.0), Distance: 484.1 pixels
+2025-09-18 20:22:46,640 - INFO - Image IMG20250119205411_BURST016.jpg: Betelgeuse at (527.0, 835.0), Bellatrix at (522.5, 1305.0), Distance: 470.0 pixels
+2025-09-18 20:22:46,650 - INFO - Image IMG20250119205411_BURST022.jpg: Betelgeuse at (531.0, 882.0), Bellatrix at (531.5, 1351.0), Distance: 469.0 pixels
+2025-09-18 20:22:46,662 - INFO - Image IMG20250119205411_BURST036.jpg: Betelgeuse at (542.0, 999.0), Bellatrix at (548.0, 1459.0), Distance: 460.0 pixels
+2025-09-18 20:22:46,670 - INFO - Image IMG20250119214045_BURST020.jpg: Betelgeuse at (619.0, 1572.0), Bellatrix at (630.5, 2002.0), Distance: 430.2 pixels
+2025-09-18 20:22:46,679 - INFO - Image IMG20250119214045_BURST033.jpg: Betelgeuse at (635.5, 1668.0), Bellatrix at (643.5, 2100.5), Distance: 432.6 pixels
+2025-09-18 20:22:46,687 - INFO - Image IMG20250119214045_BURST044.jpg: Betelgeuse at (652.0, 1750.0), Bellatrix at (656.0, 2181.0), Distance: 431.0 pixels
+2025-09-18 20:22:46,696 - INFO - Image IMG20250119214045_BURST048.jpg: Betelgeuse at (654.5, 1782.0), Bellatrix at (666.0, 2212.5), Distance: 430.7 pixels
+2025-09-18 20:22:46,704 - INFO - Image IMG20250121220603_BURST011.jpg: Betelgeuse at (284.0, 1977.0), Bellatrix at (357.5, 2418.5), Distance: 447.6 pixels
+2025-09-18 20:22:46,714 - INFO - Image IMG20250121220603_BURST021.jpg: Betelgeuse at (309.0, 2053.0), Bellatrix at (382.5, 2488.0), Distance: 441.2 pixels
+2025-09-18 20:22:46,723 - INFO - Image IMG20250121220603_BURST031.jpg: Betelgeuse at (343.5, 2135.0), Bellatrix at (406.5, 2575.0), Distance: 444.5 pixels
+2025-09-18 20:22:46,759 - INFO - Image IMG20250121220603_BURST045.jpg: Betelgeuse at (365.0, 2234.0), Bellatrix at (446.5, 2675.0), Distance: 448.5 pixels
+2025-09-18 20:22:46,768 - INFO - Image IMG20250121224118_BURST008.jpg: Betelgeuse at (428.5, 2452.5), Bellatrix at (512.5, 2893.5), Distance: 448.9 pixels
+2025-09-18 20:22:46,778 - INFO - Image IMG20250121224118_BURST020.jpg: Betelgeuse at (456.5, 2536.0), Bellatrix at (546.0, 2982.0), Distance: 454.9 pixels
+2025-09-18 20:22:46,788 - INFO - Image IMG20250122235305_BURST010.jpg: Betelgeuse at (1021.5, 1844.0), Bellatrix at (1062.5, 2251.0), Distance: 409.1 pixels
+2025-09-18 20:22:46,797 - INFO - Image IMG20250122235305_BURST017.jpg: Betelgeuse at (1036.0, 1895.0), Bellatrix at (1079.0, 2307.5), Distance: 414.7 pixels
+2025-09-18 20:22:46,807 - INFO - Image IMG20250122235305_BURST026.jpg: Betelgeuse at (1048.0, 1958.0), Bellatrix at (1094.0, 2367.0), Distance: 411.6 pixels
+2025-09-18 20:22:46,816 - INFO - Image IMG20250122235305_BURST045.jpg: Betelgeuse at (1082.5, 2094.5), Bellatrix at (1123.0, 2505.5), Distance: 413.0 pixels
+2025-09-18 20:22:46,827 - INFO - Image IMG20250123003025_BURST018.jpg: Betelgeuse at (1161.5, 2393.5), Bellatrix at (1222.5, 2818.0), Distance: 428.9 pixels
+2025-09-18 20:22:46,838 - INFO - Image IMG20250123003025_BURST030.jpg: Betelgeuse at (1185.5, 2478.0), Bellatrix at (1243.5, 2910.0), Distance: 435.9 pixels
+2025-09-18 20:22:46,855 - INFO - Image IMG20250123003025_BURST039.jpg: Betelgeuse at (1206.5, 2541.0), Bellatrix at (1265.0, 2980.0), Distance: 442.9 pixels
+2025-09-18 20:22:46,870 - INFO - Image IMG20250201203720_BURST010.jpg: Betelgeuse at (869.5, 1349.5), Bellatrix at (913.5, 1785.0), Distance: 437.7 pixels
+2025-09-18 20:22:46,880 - INFO - Image IMG20250201203720_BURST031.jpg: Betelgeuse at (910.0, 1513.0), Bellatrix at (948.5, 1935.5), Distance: 424.2 pixels
+2025-09-18 20:22:46,889 - INFO - Image IMG20250201203720_BURST043.jpg: Betelgeuse at (935.0, 1604.0), Bellatrix at (974.0, 2020.0), Distance: 417.8 pixels
+2025-09-18 20:22:46,921 - INFO - Image IMG20250201212949_BURST016.jpg: Betelgeuse at (1053.5, 2116.0), Bellatrix at (1094.0, 2530.0), Distance: 416.0 pixels
+2025-09-18 20:22:46,929 - INFO - Image IMG20250201212949_BURST046.jpg: Betelgeuse at (1103.5, 2330.5), Bellatrix at (1149.5, 2751.0), Distance: 423.0 pixels
+2025-09-18 20:22:46,938 - INFO - Image IMG20250227204628_BURST004.jpg: Betelgeuse at (195.5, 407.5), Bellatrix at (310.0, 924.0), Distance: 529.0 pixels
+2025-09-18 20:22:46,947 - INFO - Image IMG20250227215035_BURST022.jpg: Betelgeuse at (600.0, 1551.0), Bellatrix at (710.0, 1968.5), Distance: 431.7 pixels
+2025-09-18 20:22:46,987 - INFO - Image IMG20250227215035_BURST035.jpg: Betelgeuse at (633.5, 1645.0), Bellatrix at (748.5, 2060.0), Distance: 430.6 pixels
+2025-09-18 20:22:46,995 - INFO - Image IMG20250227215035_BURST041.jpg: Betelgeuse at (649.0, 1680.5), Bellatrix at (761.5, 2101.0), Distance: 435.3 pixels
+2025-09-18 20:22:47,003 - INFO - Image IMG20250303205050_BURST023.jpg: Betelgeuse at (416.0, 558.5), Bellatrix at (494.5, 1058.5), Distance: 506.1 pixels
+2025-09-18 20:22:47,011 - INFO - Image IMG20250303205050_BURST041.jpg: Betelgeuse at (473.0, 718.5), Bellatrix at (531.5, 1190.5), Distance: 475.6 pixels
+2025-09-18 20:22:47,011 - INFO - Average pixel distance across 55 images: 452.8 ± 40.4
+2025-09-18 20:22:47,014 - INFO - Distances saved to distances.csv
