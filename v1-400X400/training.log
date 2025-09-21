@@ -1,0 +1,654 @@
+2025-09-18 05:08:20,508 - WARNING - Reference directory MobilTelesco_Processed/reference_images\train does not exist
+2025-09-18 05:08:20,508 - WARNING - No images found in MobilTelesco_Processed/crops\train or MobilTelesco_Processed/reference_images\train, dataset size will be 0
+2025-09-18 05:08:20,511 - WARNING - Reference directory MobilTelesco_Processed/reference_images\val does not exist
+2025-09-18 05:08:20,511 - WARNING - No images found in MobilTelesco_Processed/crops\val or MobilTelesco_Processed/reference_images\val, dataset size will be 0
+2025-09-18 05:08:20,512 - WARNING - Reference directory MobilTelesco_Processed/reference_images\test does not exist
+2025-09-18 05:08:20,512 - WARNING - No images found in MobilTelesco_Processed/crops\test or MobilTelesco_Processed/reference_images\test, dataset size will be 0
+2025-09-18 05:08:20,519 - INFO - Epoch 1/50
+2025-09-18 05:37:45,503 - WARNING - Reference directory MobilTelesco_Processed/reference_images\train does not exist
+2025-09-18 05:37:45,504 - WARNING - No Reference images found in MobilTelesco_Processed/reference_images\train
+2025-09-18 05:37:45,507 - WARNING - Reference directory MobilTelesco_Processed/reference_images\val does not exist
+2025-09-18 05:37:45,507 - WARNING - No Reference images found in MobilTelesco_Processed/reference_images\val
+2025-09-18 05:37:45,508 - WARNING - Reference directory MobilTelesco_Processed/reference_images\test does not exist
+2025-09-18 05:37:45,509 - WARNING - No Reference images found in MobilTelesco_Processed/reference_images\test
+2025-09-18 05:37:45,509 - INFO - Epoch 1/50
+2025-09-18 05:40:51,385 - WARNING - Reference directory D:\Shantanu\MBTR\sky-survey\MobilTelesco_Processed\reference_images\train does not exist
+2025-09-18 05:40:51,385 - WARNING - No Reference images found in D:\Shantanu\MBTR\sky-survey\MobilTelesco_Processed\reference_images\train
+2025-09-18 05:40:51,388 - WARNING - Reference directory D:\Shantanu\MBTR\sky-survey\MobilTelesco_Processed\reference_images\val does not exist
+2025-09-18 05:40:51,388 - WARNING - No Reference images found in D:\Shantanu\MBTR\sky-survey\MobilTelesco_Processed\reference_images\val
+2025-09-18 05:40:51,390 - WARNING - Reference directory D:\Shantanu\MBTR\sky-survey\MobilTelesco_Processed\reference_images\test does not exist
+2025-09-18 05:40:51,390 - WARNING - No Reference images found in D:\Shantanu\MBTR\sky-survey\MobilTelesco_Processed\reference_images\test
+2025-09-18 05:40:51,390 - INFO - Epoch 1/50
+2025-09-18 05:45:39,689 - WARNING - Reference directory MobilTelesco_Processed/reference_images\train does not exist
+2025-09-18 05:45:39,689 - WARNING - No Reference images found in MobilTelesco_Processed/reference_images\train
+2025-09-18 05:45:39,693 - WARNING - Reference directory MobilTelesco_Processed/reference_images\train does not exist
+2025-09-18 05:45:39,693 - WARNING - No Reference images found in MobilTelesco_Processed/reference_images\train
+2025-09-18 05:45:39,694 - WARNING - Reference directory MobilTelesco_Processed/reference_images\train does not exist
+2025-09-18 05:45:39,694 - WARNING - No Reference images found in MobilTelesco_Processed/reference_images\train
+2025-09-18 05:45:39,694 - INFO - Epoch 1/50
+2025-09-18 05:50:00,107 - WARNING - Reference directory D:/Shantanu/MBTR/sky-survey/MobilTelesco_Processed/reference_images\train does not exist
+2025-09-18 05:50:00,107 - WARNING - No Reference images found in D:/Shantanu/MBTR/sky-survey/MobilTelesco_Processed/reference_images\train
+2025-09-18 05:50:00,110 - WARNING - Reference directory D:/Shantanu/MBTR/sky-survey/MobilTelesco_Processed/reference_images\train does not exist
+2025-09-18 05:50:00,111 - WARNING - No Reference images found in D:/Shantanu/MBTR/sky-survey/MobilTelesco_Processed/reference_images\train
+2025-09-18 05:50:00,113 - WARNING - Reference directory D:/Shantanu/MBTR/sky-survey/MobilTelesco_Processed/reference_images\train does not exist
+2025-09-18 05:50:00,113 - WARNING - No Reference images found in D:/Shantanu/MBTR/sky-survey/MobilTelesco_Processed/reference_images\train
+2025-09-18 05:50:00,113 - INFO - Epoch 1/50
+2025-09-18 05:50:07,411 - WARNING - Reference directory D:/Shantanu/MBTR/sky-survey/MobilTelesco_Processed/reference_images\train does not exist
+2025-09-18 05:50:07,411 - WARNING - No Reference images found in D:/Shantanu/MBTR/sky-survey/MobilTelesco_Processed/reference_images\train
+2025-09-18 05:50:07,415 - WARNING - Reference directory D:/Shantanu/MBTR/sky-survey/MobilTelesco_Processed/reference_images\train does not exist
+2025-09-18 05:50:07,415 - WARNING - No Reference images found in D:/Shantanu/MBTR/sky-survey/MobilTelesco_Processed/reference_images\train
+2025-09-18 05:50:07,416 - WARNING - Reference directory D:/Shantanu/MBTR/sky-survey/MobilTelesco_Processed/reference_images\train does not exist
+2025-09-18 05:50:07,416 - WARNING - No Reference images found in D:/Shantanu/MBTR/sky-survey/MobilTelesco_Processed/reference_images\train
+2025-09-18 05:50:07,417 - INFO - Epoch 1/50
+2025-09-18 05:54:36,658 - INFO - Epoch 1/50
+2025-09-18 05:59:00,260 - INFO - Epoch 1/50
+2025-09-18 05:59:01,840 - INFO - train G Loss: 21.7640, D Loss: 0.4817
+2025-09-18 05:59:02,981 - INFO - val G Loss: 10.2092, D Loss: 0.2919
+2025-09-18 05:59:04,110 - INFO - test G Loss: 8.5558, D Loss: 0.7422
+2025-09-18 05:59:04,127 - INFO - Ensemble Variance: 0.1046
+2025-09-18 05:59:04,128 - INFO - Epoch 2/50
+2025-09-18 05:59:05,149 - INFO - train G Loss: 13.7806, D Loss: 0.4767
+2025-09-18 05:59:06,157 - INFO - val G Loss: 9.1806, D Loss: 1.3181
+2025-09-18 05:59:07,165 - INFO - test G Loss: 7.5905, D Loss: 0.7066
+2025-09-18 05:59:07,179 - INFO - Ensemble Variance: 0.1182
+2025-09-18 05:59:07,180 - INFO - Epoch 3/50
+2025-09-18 05:59:08,201 - INFO - train G Loss: 9.0677, D Loss: 0.4096
+2025-09-18 05:59:09,208 - INFO - val G Loss: 6.3327, D Loss: 0.6352
+2025-09-18 05:59:10,216 - INFO - test G Loss: 5.3252, D Loss: 0.6269
+2025-09-18 05:59:10,233 - INFO - Ensemble Variance: 0.0892
+2025-09-18 05:59:10,234 - INFO - Epoch 4/50
+2025-09-18 05:59:11,265 - INFO - train G Loss: 6.1974, D Loss: 0.3576
+2025-09-18 05:59:12,323 - INFO - val G Loss: 5.7186, D Loss: 0.5267
+2025-09-18 05:59:13,371 - INFO - test G Loss: 5.3628, D Loss: 0.6993
+2025-09-18 05:59:13,387 - INFO - Ensemble Variance: 0.0795
+2025-09-18 05:59:13,387 - INFO - Epoch 5/50
+2025-09-18 05:59:14,448 - INFO - train G Loss: 4.5547, D Loss: 0.3684
+2025-09-18 05:59:15,487 - INFO - val G Loss: 5.5855, D Loss: 0.6078
+2025-09-18 05:59:16,535 - INFO - test G Loss: 6.6093, D Loss: 0.3610
+2025-09-18 05:59:16,550 - INFO - Ensemble Variance: 0.2187
+2025-09-18 05:59:16,550 - INFO - Epoch 6/50
+2025-09-18 05:59:17,610 - INFO - train G Loss: 3.7581, D Loss: 0.3922
+2025-09-18 05:59:18,685 - INFO - val G Loss: 7.5328, D Loss: 1.2725
+2025-09-18 05:59:19,764 - INFO - test G Loss: 7.1028, D Loss: 0.6483
+2025-09-18 05:59:19,780 - INFO - Ensemble Variance: 0.1250
+2025-09-18 05:59:19,780 - INFO - Epoch 7/50
+2025-09-18 05:59:20,865 - INFO - train G Loss: 3.2999, D Loss: 0.4305
+2025-09-18 05:59:21,918 - INFO - val G Loss: 4.6080, D Loss: 0.4960
+2025-09-18 05:59:22,965 - INFO - test G Loss: 6.7135, D Loss: 0.7162
+2025-09-18 05:59:22,980 - INFO - Ensemble Variance: 0.0708
+2025-09-18 05:59:22,980 - INFO - Epoch 8/50
+2025-09-18 05:59:24,038 - INFO - train G Loss: 3.3543, D Loss: 0.4919
+2025-09-18 05:59:25,091 - INFO - val G Loss: 3.5559, D Loss: 0.4895
+2025-09-18 05:59:26,143 - INFO - test G Loss: 5.9321, D Loss: 0.8929
+2025-09-18 05:59:26,157 - INFO - Ensemble Variance: 0.0423
+2025-09-18 05:59:26,157 - INFO - Epoch 9/50
+2025-09-18 05:59:27,217 - INFO - train G Loss: 3.1834, D Loss: 0.4987
+2025-09-18 05:59:28,268 - INFO - val G Loss: 5.3088, D Loss: 0.5667
+2025-09-18 05:59:29,318 - INFO - test G Loss: 6.8185, D Loss: 0.6055
+2025-09-18 05:59:29,333 - INFO - Ensemble Variance: 0.0356
+2025-09-18 05:59:29,333 - INFO - Epoch 10/50
+2025-09-18 05:59:30,393 - INFO - train G Loss: 3.2954, D Loss: 0.5712
+2025-09-18 05:59:31,440 - INFO - val G Loss: 6.6388, D Loss: 0.6960
+2025-09-18 05:59:32,490 - INFO - test G Loss: 12.1015, D Loss: 0.6645
+2025-09-18 05:59:32,504 - INFO - Ensemble Variance: 0.1325
+2025-09-18 05:59:32,506 - INFO - Epoch 11/50
+2025-09-18 05:59:33,566 - INFO - train G Loss: 3.7695, D Loss: 0.6244
+2025-09-18 05:59:34,616 - INFO - val G Loss: 9.2215, D Loss: 1.0109
+2025-09-18 05:59:35,666 - INFO - test G Loss: 7.2487, D Loss: 0.6176
+2025-09-18 05:59:35,681 - INFO - Ensemble Variance: 0.0652
+2025-09-18 05:59:35,681 - INFO - Epoch 12/50
+2025-09-18 05:59:36,741 - INFO - train G Loss: 3.6085, D Loss: 0.6474
+2025-09-18 05:59:37,792 - INFO - val G Loss: 7.0972, D Loss: 1.0088
+2025-09-18 05:59:38,841 - INFO - test G Loss: 8.8463, D Loss: 0.9358
+2025-09-18 05:59:38,856 - INFO - Ensemble Variance: 0.0547
+2025-09-18 05:59:38,856 - INFO - Epoch 13/50
+2025-09-18 05:59:39,916 - INFO - train G Loss: 3.6051, D Loss: 0.6770
+2025-09-18 05:59:40,965 - INFO - val G Loss: 4.3173, D Loss: 0.5463
+2025-09-18 05:59:42,015 - INFO - test G Loss: 5.4982, D Loss: 0.7146
+2025-09-18 05:59:42,030 - INFO - Ensemble Variance: 0.0209
+2025-09-18 05:59:42,034 - INFO - Epoch 14/50
+2025-09-18 05:59:43,092 - INFO - train G Loss: 3.5441, D Loss: 0.6357
+2025-09-18 05:59:44,139 - INFO - val G Loss: 7.3315, D Loss: 0.7034
+2025-09-18 05:59:45,186 - INFO - test G Loss: 6.3239, D Loss: 0.5602
+2025-09-18 05:59:45,201 - INFO - Ensemble Variance: 0.0252
+2025-09-18 05:59:45,201 - INFO - Epoch 15/50
+2025-09-18 05:59:46,262 - INFO - train G Loss: 3.6208, D Loss: 0.6279
+2025-09-18 05:59:47,311 - INFO - val G Loss: 4.3128, D Loss: 0.5787
+2025-09-18 05:59:48,358 - INFO - test G Loss: 5.0512, D Loss: 0.6384
+2025-09-18 05:59:48,372 - INFO - Ensemble Variance: 0.0256
+2025-09-18 05:59:48,373 - INFO - Epoch 16/50
+2025-09-18 05:59:49,430 - INFO - train G Loss: 3.6207, D Loss: 0.5812
+2025-09-18 05:59:50,476 - INFO - val G Loss: 3.7446, D Loss: 0.5893
+2025-09-18 05:59:51,526 - INFO - test G Loss: 5.4301, D Loss: 0.7758
+2025-09-18 05:59:51,541 - INFO - Ensemble Variance: 0.0154
+2025-09-18 05:59:51,541 - INFO - Epoch 17/50
+2025-09-18 05:59:52,601 - INFO - train G Loss: 3.6698, D Loss: 0.6030
+2025-09-18 05:59:53,649 - INFO - val G Loss: 3.8235, D Loss: 0.6634
+2025-09-18 05:59:54,695 - INFO - test G Loss: 6.5315, D Loss: 0.5752
+2025-09-18 05:59:54,709 - INFO - Ensemble Variance: 0.1267
+2025-09-18 05:59:54,709 - INFO - Epoch 18/50
+2025-09-18 05:59:55,769 - INFO - train G Loss: 3.7811, D Loss: 0.5981
+2025-09-18 05:59:56,820 - INFO - val G Loss: 4.0206, D Loss: 0.5611
+2025-09-18 05:59:57,869 - INFO - test G Loss: 4.2286, D Loss: 0.5866
+2025-09-18 05:59:57,883 - INFO - Ensemble Variance: 0.0181
+2025-09-18 05:59:57,884 - INFO - Epoch 19/50
+2025-09-18 05:59:58,945 - INFO - train G Loss: 3.6965, D Loss: 0.5746
+2025-09-18 05:59:59,992 - INFO - val G Loss: 4.1977, D Loss: 0.5384
+2025-09-18 06:00:01,040 - INFO - test G Loss: 4.2142, D Loss: 0.6944
+2025-09-18 06:00:01,055 - INFO - Ensemble Variance: 0.0270
+2025-09-18 06:00:01,055 - INFO - Epoch 20/50
+2025-09-18 06:00:02,115 - INFO - train G Loss: 3.6076, D Loss: 0.5958
+2025-09-18 06:00:03,165 - INFO - val G Loss: 4.0765, D Loss: 0.5243
+2025-09-18 06:00:04,212 - INFO - test G Loss: 4.2933, D Loss: 0.6600
+2025-09-18 06:00:04,227 - INFO - Ensemble Variance: 0.0314
+2025-09-18 06:00:04,228 - INFO - Epoch 21/50
+2025-09-18 06:00:05,287 - INFO - train G Loss: 3.5858, D Loss: 0.5573
+2025-09-18 06:00:06,335 - INFO - val G Loss: 3.7070, D Loss: 0.5212
+2025-09-18 06:00:07,382 - INFO - test G Loss: 4.3926, D Loss: 0.6305
+2025-09-18 06:00:07,397 - INFO - Ensemble Variance: 0.0373
+2025-09-18 06:00:07,398 - INFO - Epoch 22/50
+2025-09-18 06:00:08,455 - INFO - train G Loss: 3.6583, D Loss: 0.5390
+2025-09-18 06:00:09,505 - INFO - val G Loss: 4.3259, D Loss: 0.5187
+2025-09-18 06:00:10,553 - INFO - test G Loss: 4.9154, D Loss: 0.6839
+2025-09-18 06:00:10,568 - INFO - Ensemble Variance: 0.0752
+2025-09-18 06:00:10,568 - INFO - Epoch 23/50
+2025-09-18 06:00:11,626 - INFO - train G Loss: 3.6922, D Loss: 0.5457
+2025-09-18 06:00:12,675 - INFO - val G Loss: 3.2194, D Loss: 0.5950
+2025-09-18 06:00:13,724 - INFO - test G Loss: 6.6993, D Loss: 0.7452
+2025-09-18 06:00:13,739 - INFO - Ensemble Variance: 0.0502
+2025-09-18 06:00:13,739 - INFO - Epoch 24/50
+2025-09-18 06:00:14,799 - INFO - train G Loss: 3.9557, D Loss: 0.5443
+2025-09-18 06:00:15,847 - INFO - val G Loss: 3.7538, D Loss: 0.5615
+2025-09-18 06:00:16,893 - INFO - test G Loss: 5.5512, D Loss: 0.6650
+2025-09-18 06:00:16,907 - INFO - Ensemble Variance: 0.0654
+2025-09-18 06:00:16,908 - INFO - Epoch 25/50
+2025-09-18 06:00:17,968 - INFO - train G Loss: 3.9115, D Loss: 0.5247
+2025-09-18 06:00:19,018 - INFO - val G Loss: 3.4236, D Loss: 0.6012
+2025-09-18 06:00:20,068 - INFO - test G Loss: 3.4650, D Loss: 0.6618
+2025-09-18 06:00:20,083 - INFO - Ensemble Variance: 0.0214
+2025-09-18 06:00:20,083 - INFO - Epoch 26/50
+2025-09-18 06:00:21,144 - INFO - train G Loss: 3.4747, D Loss: 0.5168
+2025-09-18 06:00:22,191 - INFO - val G Loss: 3.5272, D Loss: 0.5820
+2025-09-18 06:00:23,242 - INFO - test G Loss: 2.9952, D Loss: 0.4707
+2025-09-18 06:00:23,257 - INFO - Ensemble Variance: 0.0328
+2025-09-18 06:00:23,257 - INFO - Epoch 27/50
+2025-09-18 06:00:24,317 - INFO - train G Loss: 3.6587, D Loss: 0.4958
+2025-09-18 06:00:25,368 - INFO - val G Loss: 3.4171, D Loss: 0.5958
+2025-09-18 06:00:26,418 - INFO - test G Loss: 2.7384, D Loss: 0.6351
+2025-09-18 06:00:26,433 - INFO - Ensemble Variance: 0.0178
+2025-09-18 06:00:26,433 - INFO - Epoch 28/50
+2025-09-18 06:00:27,493 - INFO - train G Loss: 3.5082, D Loss: 0.5154
+2025-09-18 06:00:28,544 - INFO - val G Loss: 3.9548, D Loss: 0.6644
+2025-09-18 06:00:29,593 - INFO - test G Loss: 3.7115, D Loss: 0.5633
+2025-09-18 06:00:29,608 - INFO - Ensemble Variance: 0.0380
+2025-09-18 06:00:29,608 - INFO - Epoch 29/50
+2025-09-18 06:00:30,671 - INFO - train G Loss: 3.6021, D Loss: 0.4912
+2025-09-18 06:00:31,721 - INFO - val G Loss: 5.8609, D Loss: 0.6210
+2025-09-18 06:00:32,772 - INFO - test G Loss: 8.8129, D Loss: 0.7739
+2025-09-18 06:00:32,787 - INFO - Ensemble Variance: 0.0125
+2025-09-18 06:00:32,787 - INFO - Epoch 30/50
+2025-09-18 06:00:33,850 - INFO - train G Loss: 4.1551, D Loss: 0.5210
+2025-09-18 06:00:34,901 - INFO - val G Loss: 7.4274, D Loss: 0.6427
+2025-09-18 06:00:35,952 - INFO - test G Loss: 9.4481, D Loss: 0.5421
+2025-09-18 06:00:35,968 - INFO - Ensemble Variance: 0.0016
+2025-09-18 06:00:35,968 - INFO - Epoch 31/50
+2025-09-18 06:00:37,026 - INFO - train G Loss: 3.8081, D Loss: 0.5291
+2025-09-18 06:00:38,078 - INFO - val G Loss: 5.8356, D Loss: 0.6866
+2025-09-18 06:00:39,127 - INFO - test G Loss: 6.4793, D Loss: 0.7235
+2025-09-18 06:00:39,141 - INFO - Ensemble Variance: 0.0462
+2025-09-18 06:00:39,142 - INFO - Epoch 32/50
+2025-09-18 06:00:40,205 - INFO - train G Loss: 4.0531, D Loss: 0.5581
+2025-09-18 06:00:41,257 - INFO - val G Loss: 4.0718, D Loss: 0.5995
+2025-09-18 06:00:42,310 - INFO - test G Loss: 4.1635, D Loss: 0.7870
+2025-09-18 06:00:42,324 - INFO - Ensemble Variance: 0.0490
+2025-09-18 06:00:42,324 - INFO - Epoch 33/50
+2025-09-18 06:00:43,388 - INFO - train G Loss: 3.6357, D Loss: 0.5241
+2025-09-18 06:00:44,440 - INFO - val G Loss: 3.7939, D Loss: 0.6365
+2025-09-18 06:00:45,490 - INFO - test G Loss: 3.1497, D Loss: 0.6016
+2025-09-18 06:00:45,505 - INFO - Ensemble Variance: 0.0136
+2025-09-18 06:00:45,505 - INFO - Epoch 34/50
+2025-09-18 06:00:46,569 - INFO - train G Loss: 3.5944, D Loss: 0.4994
+2025-09-18 06:00:47,619 - INFO - val G Loss: 5.2642, D Loss: 0.6020
+2025-09-18 06:00:48,672 - INFO - test G Loss: 4.7822, D Loss: 0.6119
+2025-09-18 06:00:48,687 - INFO - Ensemble Variance: 0.0302
+2025-09-18 06:00:48,687 - INFO - Epoch 35/50
+2025-09-18 06:00:49,748 - INFO - train G Loss: 3.8423, D Loss: 0.4980
+2025-09-18 06:00:50,799 - INFO - val G Loss: 5.9482, D Loss: 0.8678
+2025-09-18 06:00:51,849 - INFO - test G Loss: 5.1480, D Loss: 0.5156
+2025-09-18 06:00:51,865 - INFO - Ensemble Variance: 0.0326
+2025-09-18 06:00:51,865 - INFO - Epoch 36/50
+2025-09-18 06:00:52,927 - INFO - train G Loss: 4.1898, D Loss: 0.5222
+2025-09-18 06:00:53,977 - INFO - val G Loss: 4.4876, D Loss: 0.6358
+2025-09-18 06:00:55,027 - INFO - test G Loss: 4.1381, D Loss: 0.5476
+2025-09-18 06:00:55,042 - INFO - Ensemble Variance: 0.0306
+2025-09-18 06:00:55,042 - INFO - Epoch 37/50
+2025-09-18 06:00:56,103 - INFO - train G Loss: 3.8615, D Loss: 0.4848
+2025-09-18 06:00:57,154 - INFO - val G Loss: 6.5999, D Loss: 0.7021
+2025-09-18 06:00:58,204 - INFO - test G Loss: 5.5717, D Loss: 0.7235
+2025-09-18 06:00:58,220 - INFO - Ensemble Variance: 0.0142
+2025-09-18 06:00:58,220 - INFO - Epoch 38/50
+2025-09-18 06:00:59,277 - INFO - train G Loss: 3.9943, D Loss: 0.4957
+2025-09-18 06:01:00,329 - INFO - val G Loss: 6.8622, D Loss: 1.0087
+2025-09-18 06:01:01,382 - INFO - test G Loss: 4.4755, D Loss: 0.7650
+2025-09-18 06:01:01,396 - INFO - Ensemble Variance: 0.0142
+2025-09-18 06:01:01,396 - INFO - Epoch 39/50
+2025-09-18 06:01:02,457 - INFO - train G Loss: 3.4808, D Loss: 0.5535
+2025-09-18 06:01:03,507 - INFO - val G Loss: 4.1201, D Loss: 0.7461
+2025-09-18 06:01:04,559 - INFO - test G Loss: 3.8376, D Loss: 0.6468
+2025-09-18 06:01:04,575 - INFO - Ensemble Variance: 0.0352
+2025-09-18 06:01:04,575 - INFO - Epoch 40/50
+2025-09-18 06:01:05,637 - INFO - train G Loss: 3.5966, D Loss: 0.5370
+2025-09-18 06:01:06,689 - INFO - val G Loss: 4.7914, D Loss: 0.6517
+2025-09-18 06:01:07,739 - INFO - test G Loss: 3.6222, D Loss: 0.6281
+2025-09-18 06:01:07,753 - INFO - Ensemble Variance: 0.0267
+2025-09-18 06:01:07,753 - INFO - Epoch 41/50
+2025-09-18 06:01:08,816 - INFO - train G Loss: 3.5523, D Loss: 0.5581
+2025-09-18 06:01:09,867 - INFO - val G Loss: 7.3687, D Loss: 1.0320
+2025-09-18 06:01:10,919 - INFO - test G Loss: 5.8291, D Loss: 0.6784
+2025-09-18 06:01:10,934 - INFO - Ensemble Variance: 0.0282
+2025-09-18 06:01:10,935 - INFO - Epoch 42/50
+2025-09-18 06:01:11,999 - INFO - train G Loss: 4.6430, D Loss: 0.5669
+2025-09-18 06:01:13,050 - INFO - val G Loss: 5.6893, D Loss: 0.6854
+2025-09-18 06:01:14,100 - INFO - test G Loss: 5.0166, D Loss: 0.6568
+2025-09-18 06:01:14,114 - INFO - Ensemble Variance: 0.0179
+2025-09-18 06:01:14,115 - INFO - Epoch 43/50
+2025-09-18 06:01:15,176 - INFO - train G Loss: 3.9358, D Loss: 0.4987
+2025-09-18 06:01:16,227 - INFO - val G Loss: 5.5126, D Loss: 0.6523
+2025-09-18 06:01:17,278 - INFO - test G Loss: 4.9459, D Loss: 0.6688
+2025-09-18 06:01:17,293 - INFO - Ensemble Variance: 0.0136
+2025-09-18 06:01:17,293 - INFO - Epoch 44/50
+2025-09-18 06:01:18,353 - INFO - train G Loss: 3.7227, D Loss: 0.4820
+2025-09-18 06:01:19,407 - INFO - val G Loss: 5.2883, D Loss: 0.6967
+2025-09-18 06:01:20,458 - INFO - test G Loss: 4.6178, D Loss: 0.6814
+2025-09-18 06:01:20,474 - INFO - Ensemble Variance: 0.0149
+2025-09-18 06:01:20,474 - INFO - Epoch 45/50
+2025-09-18 06:01:21,542 - INFO - train G Loss: 3.8419, D Loss: 0.4853
+2025-09-18 06:01:22,597 - INFO - val G Loss: 3.8665, D Loss: 0.6584
+2025-09-18 06:01:23,648 - INFO - test G Loss: 4.7101, D Loss: 0.6849
+2025-09-18 06:01:23,662 - INFO - Ensemble Variance: 0.0230
+2025-09-18 06:01:23,662 - INFO - Epoch 46/50
+2025-09-18 06:01:24,724 - INFO - train G Loss: 3.9942, D Loss: 0.4801
+2025-09-18 06:01:25,775 - INFO - val G Loss: 4.0076, D Loss: 0.6188
+2025-09-18 06:01:26,826 - INFO - test G Loss: 3.5846, D Loss: 0.5948
+2025-09-18 06:01:26,841 - INFO - Ensemble Variance: 0.0288
+2025-09-18 06:01:26,841 - INFO - Epoch 47/50
+2025-09-18 06:01:27,907 - INFO - train G Loss: 3.7060, D Loss: 0.4890
+2025-09-18 06:01:28,955 - INFO - val G Loss: 4.4396, D Loss: 0.7713
+2025-09-18 06:01:30,005 - INFO - test G Loss: 2.7347, D Loss: 0.6044
+2025-09-18 06:01:30,021 - INFO - Ensemble Variance: 0.0218
+2025-09-18 06:01:30,021 - INFO - Epoch 48/50
+2025-09-18 06:01:31,082 - INFO - train G Loss: 3.8150, D Loss: 0.5207
+2025-09-18 06:01:32,130 - INFO - val G Loss: 3.9536, D Loss: 0.4234
+2025-09-18 06:01:33,180 - INFO - test G Loss: 2.6761, D Loss: 0.6794
+2025-09-18 06:01:33,194 - INFO - Ensemble Variance: 0.0232
+2025-09-18 06:01:33,194 - INFO - Epoch 49/50
+2025-09-18 06:01:34,257 - INFO - train G Loss: 3.8437, D Loss: 0.5101
+2025-09-18 06:01:35,309 - INFO - val G Loss: 3.4600, D Loss: 0.6007
+2025-09-18 06:01:36,358 - INFO - test G Loss: 3.2001, D Loss: 0.5961
+2025-09-18 06:01:36,374 - INFO - Ensemble Variance: 0.0401
+2025-09-18 06:01:36,374 - INFO - Epoch 50/50
+2025-09-18 06:01:37,434 - INFO - train G Loss: 3.4875, D Loss: 0.5812
+2025-09-18 06:01:38,484 - INFO - val G Loss: 3.6000, D Loss: 0.7130
+2025-09-18 06:01:39,553 - INFO - test G Loss: 3.0968, D Loss: 0.6367
+2025-09-18 06:01:39,568 - INFO - Ensemble Variance: 0.0200
+2025-09-18 06:08:37,297 - INFO - Epoch 1/50
+2025-09-18 06:23:06,613 - INFO - Epoch 1/50
+2025-09-18 06:23:09,745 - INFO - Batch 0 - PSNR: -1.3786, SSIM: -0.0001
+2025-09-18 06:23:16,419 - INFO - train G Loss: 21.7629, D Loss: 0.4820
+2025-09-18 06:23:24,122 - INFO - val G Loss: 9.9999, D Loss: 0.2182
+2025-09-18 06:23:31,773 - INFO - test G Loss: 8.5825, D Loss: 0.3632
+2025-09-18 06:23:31,892 - INFO - Ensemble Variance: 0.1402
+2025-09-18 06:23:32,082 - INFO - Saved inference image to inferences
+2025-09-18 06:23:32,098 - INFO - Epoch 2/50
+2025-09-18 06:23:33,399 - INFO - Batch 0 - PSNR: 1.3989, SSIM: 0.0021
+2025-09-18 06:23:40,043 - INFO - train G Loss: 13.7001, D Loss: 0.4702
+2025-09-18 06:23:47,677 - INFO - val G Loss: 9.9395, D Loss: 1.7537
+2025-09-18 06:23:55,336 - INFO - test G Loss: 9.1955, D Loss: 0.2156
+2025-09-18 06:23:55,467 - INFO - Ensemble Variance: 0.2077
+2025-09-18 06:23:55,561 - INFO - Saved inference image to inferences
+2025-09-18 06:23:55,569 - INFO - Epoch 3/50
+2025-09-18 06:23:56,880 - INFO - Batch 0 - PSNR: 2.5275, SSIM: 0.0041
+2025-09-18 06:24:03,910 - INFO - train G Loss: 8.8473, D Loss: 0.5333
+2025-09-18 06:24:11,849 - INFO - val G Loss: 5.5818, D Loss: 0.6866
+2025-09-18 06:24:19,832 - INFO - test G Loss: 5.5821, D Loss: 0.6460
+2025-09-18 06:24:19,946 - INFO - Ensemble Variance: 0.0471
+2025-09-18 06:24:20,046 - INFO - Saved inference image to inferences
+2025-09-18 06:24:20,046 - INFO - Epoch 4/50
+2025-09-18 06:24:21,356 - INFO - Batch 0 - PSNR: 3.4194, SSIM: 0.0051
+2025-09-18 06:24:28,259 - INFO - train G Loss: 6.0759, D Loss: 0.3720
+2025-09-18 06:24:36,191 - INFO - val G Loss: 7.0790, D Loss: 0.6904
+2025-09-18 06:24:44,188 - INFO - test G Loss: 5.9425, D Loss: 0.7836
+2025-09-18 06:24:44,306 - INFO - Ensemble Variance: 0.0583
+2025-09-18 06:24:44,393 - INFO - Saved inference image to inferences
+2025-09-18 06:24:44,401 - INFO - Epoch 5/50
+2025-09-18 06:24:45,685 - INFO - Batch 0 - PSNR: 4.6779, SSIM: 0.0096
+2025-09-18 06:24:52,608 - INFO - train G Loss: 4.5263, D Loss: 0.3843
+2025-09-18 06:24:53,077 - INFO - Saved checkpoint at epoch 5
+2025-09-18 06:25:00,977 - INFO - val G Loss: 4.9083, D Loss: 0.5093
+2025-09-18 06:25:08,913 - INFO - test G Loss: 6.0171, D Loss: 0.8374
+2025-09-18 06:25:09,027 - INFO - Ensemble Variance: 0.1132
+2025-09-18 06:25:09,108 - INFO - Saved inference image to inferences
+2025-09-18 06:25:09,108 - INFO - Epoch 6/50
+2025-09-18 06:25:10,427 - INFO - Batch 0 - PSNR: 6.1145, SSIM: 0.0303
+2025-09-18 06:25:17,332 - INFO - train G Loss: 3.6521, D Loss: 0.3864
+2025-09-18 06:25:25,261 - INFO - val G Loss: 5.7241, D Loss: 0.6476
+2025-09-18 06:25:33,220 - INFO - test G Loss: 5.4013, D Loss: 0.6969
+2025-09-18 06:25:33,340 - INFO - Ensemble Variance: 0.0598
+2025-09-18 06:25:33,370 - INFO - Saved inference image to inferences
+2025-09-18 06:25:33,370 - INFO - Epoch 7/50
+2025-09-18 06:25:34,693 - INFO - Batch 0 - PSNR: 7.6760, SSIM: 0.0473
+2025-09-18 06:25:41,550 - INFO - train G Loss: 3.1980, D Loss: 0.3921
+2025-09-18 06:25:49,561 - INFO - val G Loss: 3.2071, D Loss: 0.5642
+2025-09-18 06:25:57,520 - INFO - test G Loss: 2.9610, D Loss: 0.7353
+2025-09-18 06:25:57,633 - INFO - Ensemble Variance: 0.0223
+2025-09-18 06:25:57,664 - INFO - Saved inference image to inferences
+2025-09-18 06:25:57,664 - INFO - Epoch 8/50
+2025-09-18 06:25:58,973 - INFO - Batch 0 - PSNR: 9.7328, SSIM: 0.0652
+2025-09-18 06:26:05,818 - INFO - train G Loss: 2.9034, D Loss: 0.4556
+2025-09-18 06:26:13,796 - INFO - val G Loss: 4.8083, D Loss: 0.5392
+2025-09-18 06:26:21,761 - INFO - test G Loss: 7.1164, D Loss: 1.4058
+2025-09-18 06:26:21,877 - INFO - Ensemble Variance: 0.1155
+2025-09-18 06:26:21,900 - INFO - Saved inference image to inferences
+2025-09-18 06:26:21,900 - INFO - Epoch 9/50
+2025-09-18 06:26:23,223 - INFO - Batch 0 - PSNR: 10.5804, SSIM: 0.1406
+2025-09-18 06:26:30,067 - INFO - train G Loss: 3.1041, D Loss: 0.5113
+2025-09-18 06:26:38,036 - INFO - val G Loss: 5.2259, D Loss: 0.5566
+2025-09-18 06:26:46,056 - INFO - test G Loss: 6.6177, D Loss: 0.6853
+2025-09-18 06:26:46,170 - INFO - Ensemble Variance: 0.0549
+2025-09-18 06:26:46,259 - INFO - Saved inference image to inferences
+2025-09-18 06:26:46,259 - INFO - Epoch 10/50
+2025-09-18 06:26:47,569 - INFO - Batch 0 - PSNR: 13.1021, SSIM: 0.0748
+2025-09-18 06:26:54,425 - INFO - train G Loss: 2.9391, D Loss: 0.5715
+2025-09-18 06:26:54,874 - INFO - Saved checkpoint at epoch 10
+2025-09-18 06:27:02,873 - INFO - val G Loss: 4.0435, D Loss: 0.7185
+2025-09-18 06:27:10,839 - INFO - test G Loss: 6.4345, D Loss: 0.9026
+2025-09-18 06:27:10,959 - INFO - Ensemble Variance: 0.0310
+2025-09-18 06:27:10,997 - INFO - Saved inference image to inferences
+2025-09-18 06:27:10,997 - INFO - Epoch 11/50
+2025-09-18 06:27:12,329 - INFO - Batch 0 - PSNR: 14.3226, SSIM: 0.0683
+2025-09-18 06:27:19,145 - INFO - train G Loss: 3.2408, D Loss: 0.6287
+2025-09-18 06:27:27,116 - INFO - val G Loss: 4.4042, D Loss: 0.7572
+2025-09-18 06:27:35,106 - INFO - test G Loss: 6.3966, D Loss: 0.6012
+2025-09-18 06:27:35,220 - INFO - Ensemble Variance: 0.0171
+2025-09-18 06:27:35,310 - INFO - Saved inference image to inferences
+2025-09-18 06:27:35,310 - INFO - Epoch 12/50
+2025-09-18 06:27:36,638 - INFO - Batch 0 - PSNR: 19.2830, SSIM: 0.1673
+2025-09-18 06:27:43,493 - INFO - train G Loss: 3.3712, D Loss: 0.6698
+2025-09-18 06:27:51,494 - INFO - val G Loss: 4.8048, D Loss: 0.7411
+2025-09-18 06:27:59,499 - INFO - test G Loss: 5.2807, D Loss: 0.6404
+2025-09-18 06:27:59,620 - INFO - Ensemble Variance: 0.0178
+2025-09-18 06:27:59,720 - INFO - Saved inference image to inferences
+2025-09-18 06:27:59,720 - INFO - Epoch 13/50
+2025-09-18 06:28:01,044 - INFO - Batch 0 - PSNR: 18.7969, SSIM: 0.1848
+2025-09-18 06:28:07,954 - INFO - train G Loss: 3.4468, D Loss: 0.6644
+2025-09-18 06:28:15,911 - INFO - val G Loss: 5.0681, D Loss: 0.5883
+2025-09-18 06:28:23,897 - INFO - test G Loss: 5.5199, D Loss: 0.6756
+2025-09-18 06:28:24,011 - INFO - Ensemble Variance: 0.0163
+2025-09-18 06:28:24,049 - INFO - Saved inference image to inferences
+2025-09-18 06:28:24,049 - INFO - Epoch 14/50
+2025-09-18 06:28:25,385 - INFO - Batch 0 - PSNR: 21.4559, SSIM: 0.2419
+2025-09-18 06:28:32,234 - INFO - train G Loss: 3.3975, D Loss: 0.6451
+2025-09-18 06:28:40,216 - INFO - val G Loss: 5.6300, D Loss: 0.6030
+2025-09-18 06:28:48,217 - INFO - test G Loss: 8.0200, D Loss: 0.6934
+2025-09-18 06:28:48,336 - INFO - Ensemble Variance: 0.0273
+2025-09-18 06:28:48,435 - INFO - Saved inference image to inferences
+2025-09-18 06:28:48,443 - INFO - Epoch 15/50
+2025-09-18 06:28:49,757 - INFO - Batch 0 - PSNR: 20.4804, SSIM: 0.2235
+2025-09-18 06:28:56,793 - INFO - train G Loss: 3.4533, D Loss: 0.6280
+2025-09-18 06:28:57,234 - INFO - Saved checkpoint at epoch 15
+2025-09-18 06:29:05,210 - INFO - val G Loss: 4.7716, D Loss: 0.7073
+2025-09-18 06:29:13,207 - INFO - test G Loss: 4.5672, D Loss: 0.6100
+2025-09-18 06:29:13,329 - INFO - Ensemble Variance: 0.0196
+2025-09-18 06:29:13,369 - INFO - Saved inference image to inferences
+2025-09-18 06:29:13,369 - INFO - Epoch 16/50
+2025-09-18 06:29:14,691 - INFO - Batch 0 - PSNR: 21.2181, SSIM: 0.2761
+2025-09-18 06:29:21,570 - INFO - train G Loss: 3.2996, D Loss: 0.6184
+2025-09-18 06:29:29,528 - INFO - val G Loss: 5.1325, D Loss: 0.6914
+2025-09-18 06:29:37,488 - INFO - test G Loss: 5.2855, D Loss: 0.6136
+2025-09-18 06:29:37,603 - INFO - Ensemble Variance: 0.0196
+2025-09-18 06:29:37,701 - INFO - Saved inference image to inferences
+2025-09-18 06:29:37,701 - INFO - Epoch 17/50
+2025-09-18 06:29:39,012 - INFO - Batch 0 - PSNR: 21.1096, SSIM: 0.2731
+2025-09-18 06:29:45,894 - INFO - train G Loss: 3.3291, D Loss: 0.6170
+2025-09-18 06:29:54,126 - INFO - val G Loss: 4.6438, D Loss: 0.6214
+2025-09-18 06:30:02,114 - INFO - test G Loss: 4.5723, D Loss: 0.6755
+2025-09-18 06:30:02,232 - INFO - Ensemble Variance: 0.0209
+2025-09-18 06:30:02,328 - INFO - Saved inference image to inferences
+2025-09-18 06:30:02,328 - INFO - Epoch 18/50
+2025-09-18 06:30:03,656 - INFO - Batch 0 - PSNR: 20.2544, SSIM: 0.1799
+2025-09-18 06:30:10,546 - INFO - train G Loss: 3.2197, D Loss: 0.6022
+2025-09-18 06:30:18,766 - INFO - val G Loss: 3.4008, D Loss: 0.5859
+2025-09-18 06:30:26,767 - INFO - test G Loss: 4.6718, D Loss: 0.4965
+2025-09-18 06:30:26,891 - INFO - Ensemble Variance: 0.0177
+2025-09-18 06:30:26,936 - INFO - Saved inference image to inferences
+2025-09-18 06:30:26,936 - INFO - Epoch 19/50
+2025-09-18 06:30:28,254 - INFO - Batch 0 - PSNR: 20.5481, SSIM: 0.2197
+2025-09-18 06:30:35,152 - INFO - train G Loss: 3.3452, D Loss: 0.5735
+2025-09-18 06:30:43,360 - INFO - val G Loss: 6.7531, D Loss: 0.5977
+2025-09-18 06:30:51,308 - INFO - test G Loss: 8.4817, D Loss: 1.1450
+2025-09-18 06:30:51,430 - INFO - Ensemble Variance: 0.0067
+2025-09-18 06:30:51,528 - INFO - Saved inference image to inferences
+2025-09-18 06:30:51,528 - INFO - Epoch 20/50
+2025-09-18 06:30:52,839 - INFO - Batch 0 - PSNR: 19.0188, SSIM: 0.1980
+2025-09-18 06:30:59,750 - INFO - train G Loss: 3.4799, D Loss: 0.6137
+2025-09-18 06:31:00,176 - INFO - Saved checkpoint at epoch 20
+2025-09-18 06:31:08,384 - INFO - val G Loss: 4.8996, D Loss: 0.6412
+2025-09-18 06:31:16,365 - INFO - test G Loss: 5.5474, D Loss: 0.5165
+2025-09-18 06:31:16,483 - INFO - Ensemble Variance: 0.0267
+2025-09-18 06:31:16,582 - INFO - Saved inference image to inferences
+2025-09-18 06:31:16,582 - INFO - Epoch 21/50
+2025-09-18 06:31:17,894 - INFO - Batch 0 - PSNR: 18.2390, SSIM: 0.1692
+2025-09-18 06:31:24,795 - INFO - train G Loss: 3.3253, D Loss: 0.5913
+2025-09-18 06:31:33,027 - INFO - val G Loss: 4.6675, D Loss: 0.6738
+2025-09-18 06:31:41,014 - INFO - test G Loss: 4.4045, D Loss: 0.5545
+2025-09-18 06:31:41,128 - INFO - Ensemble Variance: 0.0162
+2025-09-18 06:31:41,181 - INFO - Saved inference image to inferences
+2025-09-18 06:31:41,181 - INFO - Epoch 22/50
+2025-09-18 06:31:42,501 - INFO - Batch 0 - PSNR: 18.8194, SSIM: 0.1759
+2025-09-18 06:31:49,453 - INFO - train G Loss: 3.2578, D Loss: 0.5739
+2025-09-18 06:31:57,662 - INFO - val G Loss: 4.1945, D Loss: 0.6020
+2025-09-18 06:32:05,641 - INFO - test G Loss: 5.1774, D Loss: 0.6582
+2025-09-18 06:32:05,755 - INFO - Ensemble Variance: 0.0180
+2025-09-18 06:32:05,864 - INFO - Saved inference image to inferences
+2025-09-18 06:32:05,864 - INFO - Epoch 23/50
+2025-09-18 06:32:07,165 - INFO - Batch 0 - PSNR: 20.1621, SSIM: 0.1718
+2025-09-18 06:32:14,075 - INFO - train G Loss: 3.1844, D Loss: 0.5588
+2025-09-18 06:32:22,309 - INFO - val G Loss: 4.1636, D Loss: 0.6157
+2025-09-18 06:32:30,338 - INFO - test G Loss: 4.8311, D Loss: 0.5175
+2025-09-18 06:32:30,452 - INFO - Ensemble Variance: 0.0305
+2025-09-18 06:32:30,540 - INFO - Saved inference image to inferences
+2025-09-18 06:32:30,540 - INFO - Epoch 24/50
+2025-09-18 06:32:31,864 - INFO - Batch 0 - PSNR: 21.1735, SSIM: 0.2000
+2025-09-18 06:32:38,747 - INFO - train G Loss: 3.2478, D Loss: 0.5481
+2025-09-18 06:32:46,973 - INFO - val G Loss: 3.4635, D Loss: 0.6961
+2025-09-18 06:32:54,965 - INFO - test G Loss: 3.6426, D Loss: 0.5394
+2025-09-18 06:32:55,079 - INFO - Ensemble Variance: 0.0649
+2025-09-18 06:32:55,190 - INFO - Saved inference image to inferences
+2025-09-18 06:32:55,190 - INFO - Epoch 25/50
+2025-09-18 06:32:56,501 - INFO - Batch 0 - PSNR: 17.9448, SSIM: 0.2339
+2025-09-18 06:33:03,422 - INFO - train G Loss: 3.4824, D Loss: 0.5270
+2025-09-18 06:33:03,856 - INFO - Saved checkpoint at epoch 25
+2025-09-18 06:33:12,083 - INFO - val G Loss: 3.9655, D Loss: 0.5792
+2025-09-18 06:33:20,101 - INFO - test G Loss: 3.7125, D Loss: 0.5707
+2025-09-18 06:33:20,222 - INFO - Ensemble Variance: 0.0179
+2025-09-18 06:33:20,309 - INFO - Saved inference image to inferences
+2025-09-18 06:33:20,309 - INFO - Epoch 26/50
+2025-09-18 06:33:21,632 - INFO - Batch 0 - PSNR: 20.1589, SSIM: 0.1709
+2025-09-18 06:33:28,559 - INFO - train G Loss: 3.1371, D Loss: 0.5193
+2025-09-18 06:33:36,788 - INFO - val G Loss: 5.1257, D Loss: 0.6349
+2025-09-18 06:33:44,812 - INFO - test G Loss: 4.2032, D Loss: 0.6788
+2025-09-18 06:33:44,926 - INFO - Ensemble Variance: 0.0378
+2025-09-18 06:33:44,972 - INFO - Saved inference image to inferences
+2025-09-18 06:33:44,972 - INFO - Epoch 27/50
+2025-09-18 06:33:46,307 - INFO - Batch 0 - PSNR: 18.5003, SSIM: 0.1507
+2025-09-18 06:33:53,314 - INFO - train G Loss: 3.4495, D Loss: 0.5148
+2025-09-18 06:34:01,603 - INFO - val G Loss: 4.2007, D Loss: 0.5534
+2025-09-18 06:34:09,373 - INFO - test G Loss: 4.7280, D Loss: 0.4904
+2025-09-18 06:34:09,486 - INFO - Ensemble Variance: 0.0394
+2025-09-18 06:34:09,571 - INFO - Saved inference image to inferences
+2025-09-18 06:34:09,571 - INFO - Epoch 28/50
+2025-09-18 06:34:10,906 - INFO - Batch 0 - PSNR: 21.2497, SSIM: 0.2206
+2025-09-18 06:34:17,663 - INFO - train G Loss: 3.4164, D Loss: 0.5326
+2025-09-18 06:34:25,540 - INFO - val G Loss: 4.5246, D Loss: 0.6042
+2025-09-18 06:34:33,492 - INFO - test G Loss: 7.5898, D Loss: 0.8836
+2025-09-18 06:34:33,751 - INFO - Ensemble Variance: 0.0609
+2025-09-18 06:34:33,860 - INFO - Saved inference image to inferences
+2025-09-18 06:34:33,868 - INFO - Epoch 29/50
+2025-09-18 06:34:35,431 - INFO - Batch 0 - PSNR: 22.7373, SSIM: 0.2870
+2025-09-18 06:34:42,825 - INFO - train G Loss: 3.5395, D Loss: 0.5494
+2025-09-18 06:34:51,470 - INFO - val G Loss: 4.0956, D Loss: 0.6723
+2025-09-18 06:35:00,061 - INFO - test G Loss: 3.6842, D Loss: 0.6566
+2025-09-18 06:35:00,334 - INFO - Ensemble Variance: 0.0244
+2025-09-18 06:35:00,463 - INFO - Saved inference image to inferences
+2025-09-18 06:35:00,463 - INFO - Epoch 30/50
+2025-09-18 06:35:02,014 - INFO - Batch 0 - PSNR: 21.9868, SSIM: 0.3035
+2025-09-18 06:35:09,903 - INFO - train G Loss: 3.3084, D Loss: 0.5418
+2025-09-18 06:35:10,679 - INFO - Saved checkpoint at epoch 30
+2025-09-18 06:35:19,980 - INFO - val G Loss: 4.3694, D Loss: 0.5867
+2025-09-18 06:35:28,902 - INFO - test G Loss: 5.1687, D Loss: 0.6902
+2025-09-18 06:35:29,047 - INFO - Ensemble Variance: 0.0263
+2025-09-18 06:35:29,138 - INFO - Saved inference image to inferences
+2025-09-18 06:35:29,138 - INFO - Epoch 31/50
+2025-09-18 06:35:30,475 - INFO - Batch 0 - PSNR: 19.9121, SSIM: 0.2153
+2025-09-18 06:35:38,187 - INFO - train G Loss: 3.3364, D Loss: 0.5255
+2025-09-18 06:35:46,786 - INFO - val G Loss: 4.8889, D Loss: 0.5884
+2025-09-18 06:35:55,278 - INFO - test G Loss: 3.6275, D Loss: 0.6131
+2025-09-18 06:35:55,535 - INFO - Ensemble Variance: 0.0205
+2025-09-18 06:35:55,688 - INFO - Saved inference image to inferences
+2025-09-18 06:35:55,696 - INFO - Epoch 32/50
+2025-09-18 06:35:57,147 - INFO - Batch 0 - PSNR: 21.7996, SSIM: 0.2565
+2025-09-18 06:36:04,774 - INFO - train G Loss: 3.1375, D Loss: 0.5059
+2025-09-18 06:36:13,189 - INFO - val G Loss: 3.6442, D Loss: 0.5897
+2025-09-18 06:36:22,179 - INFO - test G Loss: 3.8914, D Loss: 0.5565
+2025-09-18 06:36:22,429 - INFO - Ensemble Variance: 0.0258
+2025-09-18 06:36:22,575 - INFO - Saved inference image to inferences
+2025-09-18 06:36:22,575 - INFO - Epoch 33/50
+2025-09-18 06:36:24,091 - INFO - Batch 0 - PSNR: 20.4387, SSIM: 0.1972
+2025-09-18 06:36:31,845 - INFO - train G Loss: 3.2337, D Loss: 0.4794
+2025-09-18 06:36:40,544 - INFO - val G Loss: 3.0382, D Loss: 0.6026
+2025-09-18 06:36:49,147 - INFO - test G Loss: 3.6593, D Loss: 0.5827
+2025-09-18 06:36:49,391 - INFO - Ensemble Variance: 0.0302
+2025-09-18 06:36:49,550 - INFO - Saved inference image to inferences
+2025-09-18 06:36:49,558 - INFO - Epoch 34/50
+2025-09-18 06:36:51,301 - INFO - Batch 0 - PSNR: 20.1621, SSIM: 0.2204
+2025-09-18 06:36:58,874 - INFO - train G Loss: 3.2091, D Loss: 0.4827
+2025-09-18 06:37:07,326 - INFO - val G Loss: 3.7813, D Loss: 0.6053
+2025-09-18 06:37:15,844 - INFO - test G Loss: 2.7151, D Loss: 0.6422
+2025-09-18 06:37:16,156 - INFO - Ensemble Variance: 0.0190
+2025-09-18 06:37:16,285 - INFO - Saved inference image to inferences
+2025-09-18 06:37:16,285 - INFO - Epoch 35/50
+2025-09-18 06:37:17,898 - INFO - Batch 0 - PSNR: 22.0801, SSIM: 0.2793
+2025-09-18 06:37:25,998 - INFO - train G Loss: 3.0926, D Loss: 0.4826
+2025-09-18 06:37:26,706 - INFO - Saved checkpoint at epoch 35
+2025-09-18 06:37:35,449 - INFO - val G Loss: 6.1438, D Loss: 0.7259
+2025-09-18 06:37:44,101 - INFO - test G Loss: 3.9352, D Loss: 0.6326
+2025-09-18 06:37:44,367 - INFO - Ensemble Variance: 0.0364
+2025-09-18 06:37:44,489 - INFO - Saved inference image to inferences
+2025-09-18 06:37:44,497 - INFO - Epoch 36/50
+2025-09-18 06:37:46,031 - INFO - Batch 0 - PSNR: 21.2249, SSIM: 0.2552
+2025-09-18 06:37:53,531 - INFO - train G Loss: 3.4077, D Loss: 0.4776
+2025-09-18 06:38:02,431 - INFO - val G Loss: 4.3375, D Loss: 0.6374
+2025-09-18 06:38:11,405 - INFO - test G Loss: 3.9597, D Loss: 0.6297
+2025-09-18 06:38:11,656 - INFO - Ensemble Variance: 0.0200
+2025-09-18 06:38:11,847 - INFO - Saved inference image to inferences
+2025-09-18 06:38:11,854 - INFO - Epoch 37/50
+2025-09-18 06:38:13,440 - INFO - Batch 0 - PSNR: 22.3447, SSIM: 0.3166
+2025-09-18 06:38:21,429 - INFO - train G Loss: 3.2907, D Loss: 0.4586
+2025-09-18 06:38:30,602 - INFO - val G Loss: 3.2989, D Loss: 0.6561
+2025-09-18 06:38:39,778 - INFO - test G Loss: 2.0968, D Loss: 0.5478
+2025-09-18 06:38:40,006 - INFO - Ensemble Variance: 0.0178
+2025-09-18 06:38:40,116 - INFO - Saved inference image to inferences
+2025-09-18 06:38:40,124 - INFO - Epoch 38/50
+2025-09-18 06:38:41,677 - INFO - Batch 0 - PSNR: 21.9280, SSIM: 0.3345
+2025-09-18 06:38:49,522 - INFO - train G Loss: 3.1387, D Loss: 0.5131
+2025-09-18 06:38:58,650 - INFO - val G Loss: 3.2748, D Loss: 0.6169
+2025-09-18 06:39:07,535 - INFO - test G Loss: 3.6280, D Loss: 0.7626
+2025-09-18 06:39:07,740 - INFO - Ensemble Variance: 0.0353
+2025-09-18 06:39:07,801 - INFO - Saved inference image to inferences
+2025-09-18 06:39:07,855 - INFO - Epoch 39/50
+2025-09-18 06:39:09,259 - INFO - Batch 0 - PSNR: 21.1049, SSIM: 0.2513
+2025-09-18 06:39:16,526 - INFO - train G Loss: 3.0839, D Loss: 0.5441
+2025-09-18 06:39:25,133 - INFO - val G Loss: 4.0855, D Loss: 0.5775
+2025-09-18 06:39:33,477 - INFO - test G Loss: 3.4222, D Loss: 0.8568
+2025-09-18 06:39:33,713 - INFO - Ensemble Variance: 0.0181
+2025-09-18 06:39:33,759 - INFO - Saved inference image to inferences
+2025-09-18 06:39:33,797 - INFO - Epoch 40/50
+2025-09-18 06:39:35,196 - INFO - Batch 0 - PSNR: 21.5475, SSIM: 0.3000
+2025-09-18 06:39:42,506 - INFO - train G Loss: 3.3235, D Loss: 0.5109
+2025-09-18 06:39:43,298 - INFO - Saved checkpoint at epoch 40
+2025-09-18 06:39:52,098 - INFO - val G Loss: 3.3279, D Loss: 0.5772
+2025-09-18 06:40:00,884 - INFO - test G Loss: 3.0740, D Loss: 0.6669
+2025-09-18 06:40:01,112 - INFO - Ensemble Variance: 0.0285
+2025-09-18 06:40:01,230 - INFO - Saved inference image to inferences
+2025-09-18 06:40:01,230 - INFO - Epoch 41/50
+2025-09-18 06:40:02,820 - INFO - Batch 0 - PSNR: 22.5408, SSIM: 0.3057
+2025-09-18 06:40:10,283 - INFO - train G Loss: 3.2462, D Loss: 0.4983
+2025-09-18 06:40:19,159 - INFO - val G Loss: 3.4418, D Loss: 0.6024
+2025-09-18 06:40:27,888 - INFO - test G Loss: 2.2794, D Loss: 0.7254
+2025-09-18 06:40:28,117 - INFO - Ensemble Variance: 0.0163
+2025-09-18 06:40:28,170 - INFO - Saved inference image to inferences
+2025-09-18 06:40:28,223 - INFO - Epoch 42/50
+2025-09-18 06:40:29,847 - INFO - Batch 0 - PSNR: 23.4175, SSIM: 0.3921
+2025-09-18 06:40:37,049 - INFO - train G Loss: 3.2678, D Loss: 0.5262
+2025-09-18 06:40:45,316 - INFO - val G Loss: 3.3879, D Loss: 0.5977
+2025-09-18 06:40:53,319 - INFO - test G Loss: 4.2064, D Loss: 1.0952
+2025-09-18 06:40:53,437 - INFO - Ensemble Variance: 0.0458
+2025-09-18 06:40:53,468 - INFO - Saved inference image to inferences
+2025-09-18 06:40:53,468 - INFO - Epoch 43/50
+2025-09-18 06:40:54,784 - INFO - Batch 0 - PSNR: 20.2639, SSIM: 0.2563
+2025-09-18 06:41:01,701 - INFO - train G Loss: 3.2883, D Loss: 0.5178
+2025-09-18 06:41:09,936 - INFO - val G Loss: 2.9740, D Loss: 0.6040
+2025-09-18 06:41:17,926 - INFO - test G Loss: 3.6330, D Loss: 0.6017
+2025-09-18 06:41:18,044 - INFO - Ensemble Variance: 0.0270
+2025-09-18 06:41:18,066 - INFO - Saved inference image to inferences
+2025-09-18 06:41:18,066 - INFO - Epoch 44/50
+2025-09-18 06:41:19,389 - INFO - Batch 0 - PSNR: 23.3454, SSIM: 0.3743
+2025-09-18 06:41:26,297 - INFO - train G Loss: 3.1619, D Loss: 0.4981
+2025-09-18 06:41:34,507 - INFO - val G Loss: 2.6280, D Loss: 0.5688
+2025-09-18 06:41:42,502 - INFO - test G Loss: 2.4205, D Loss: 0.7624
+2025-09-18 06:41:42,616 - INFO - Ensemble Variance: 0.0212
+2025-09-18 06:41:42,661 - INFO - Saved inference image to inferences
+2025-09-18 06:41:42,661 - INFO - Epoch 45/50
+2025-09-18 06:41:43,961 - INFO - Batch 0 - PSNR: 23.7209, SSIM: 0.3451
+2025-09-18 06:41:50,899 - INFO - train G Loss: 3.3125, D Loss: 0.5493
+2025-09-18 06:41:51,340 - INFO - Saved checkpoint at epoch 45
+2025-09-18 06:41:59,585 - INFO - val G Loss: 3.3500, D Loss: 0.6585
+2025-09-18 06:42:07,572 - INFO - test G Loss: 2.6751, D Loss: 0.6015
+2025-09-18 06:42:07,679 - INFO - Ensemble Variance: 0.0197
+2025-09-18 06:42:07,701 - INFO - Saved inference image to inferences
+2025-09-18 06:42:07,709 - INFO - Epoch 46/50
+2025-09-18 06:42:09,018 - INFO - Batch 0 - PSNR: 22.3477, SSIM: 0.3450
+2025-09-18 06:42:15,944 - INFO - train G Loss: 3.1096, D Loss: 0.5627
+2025-09-18 06:42:24,189 - INFO - val G Loss: 2.1980, D Loss: 0.5658
+2025-09-18 06:42:32,193 - INFO - test G Loss: 1.7487, D Loss: 0.2824
+2025-09-18 06:42:32,307 - INFO - Ensemble Variance: 0.0205
+2025-09-18 06:42:32,330 - INFO - Saved inference image to inferences
+2025-09-18 06:42:32,330 - INFO - Epoch 47/50
+2025-09-18 06:42:33,643 - INFO - Batch 0 - PSNR: 21.1263, SSIM: 0.3015
+2025-09-18 06:42:40,603 - INFO - train G Loss: 3.0155, D Loss: 0.5613
+2025-09-18 06:42:48,832 - INFO - val G Loss: 6.3293, D Loss: 0.5783
+2025-09-18 06:42:56,834 - INFO - test G Loss: 8.2764, D Loss: 0.6681
+2025-09-18 06:42:56,955 - INFO - Ensemble Variance: 0.0129
+2025-09-18 06:42:57,033 - INFO - Saved inference image to inferences
+2025-09-18 06:42:57,033 - INFO - Epoch 48/50
+2025-09-18 06:42:58,346 - INFO - Batch 0 - PSNR: 23.8910, SSIM: 0.3998
+2025-09-18 06:43:05,224 - INFO - train G Loss: 3.7645, D Loss: 0.5566
+2025-09-18 06:43:13,451 - INFO - val G Loss: 3.2233, D Loss: 0.5271
+2025-09-18 06:43:21,447 - INFO - test G Loss: 2.4526, D Loss: 0.5372
+2025-09-18 06:43:21,567 - INFO - Ensemble Variance: 0.0204
+2025-09-18 06:43:21,597 - INFO - Saved inference image to inferences
+2025-09-18 06:43:21,597 - INFO - Epoch 49/50
+2025-09-18 06:43:22,915 - INFO - Batch 0 - PSNR: 19.4469, SSIM: 0.2684
+2025-09-18 06:43:29,833 - INFO - train G Loss: 3.2488, D Loss: 0.5379
+2025-09-18 06:43:38,076 - INFO - val G Loss: 2.9052, D Loss: 0.5611
+2025-09-18 06:43:46,072 - INFO - test G Loss: 2.4543, D Loss: 0.5602
+2025-09-18 06:43:46,189 - INFO - Ensemble Variance: 0.0199
+2025-09-18 06:43:46,212 - INFO - Saved inference image to inferences
+2025-09-18 06:43:46,212 - INFO - Epoch 50/50
+2025-09-18 06:43:47,541 - INFO - Batch 0 - PSNR: 18.7727, SSIM: 0.3379
+2025-09-18 06:43:54,435 - INFO - train G Loss: 3.0766, D Loss: 0.5529
+2025-09-18 06:43:54,876 - INFO - Saved checkpoint at epoch 50
+2025-09-18 06:44:03,099 - INFO - val G Loss: 3.1377, D Loss: 0.5434
+2025-09-18 06:44:11,097 - INFO - test G Loss: 2.3598, D Loss: 0.7893
+2025-09-18 06:44:11,212 - INFO - Ensemble Variance: 0.0190
+2025-09-18 06:44:11,291 - INFO - Saved inference image to inferences
