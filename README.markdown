@@ -31,14 +31,14 @@ StrCGAN (Structural Conditional Generative Adversarial Network) is a deep learni
 ### Training
 To train the model from scratch or resume from a checkpoint:
 ```bash
-python train_cmra_gan.py
+python StrCGAN.py
 ```
 - Checkpoints are saved every 5 epochs in the `checkpoints` directory.
 - To resume from a specific checkpoint (e.g., `checkpoints/best_model.pth`), edit `train_cmra_gan.py` to include `gan.load_checkpoint("checkpoints/best_model.pth")` before `gan.train(epochs=...)`.
 
 ### Inference
 To run inference with a trained model:
-- Modify `train_cmra_gan.py` to call `gan.infer(dataloader)` with the test dataset.
+- Modify `StrCGAN.py` to call `gan.infer(dataloader)` with the test dataset.
 - Run the script:
   ```bash
   python StrCGAN.py
@@ -58,7 +58,7 @@ StrCGAN/
 ├── inferences/          # Inference output images
 ├── train_visuals/       # Training visualization images
 ├── val_visuals/         # Validation visualization images
-├── train_cmra_gan.py    # Main script
+├── StrCGAN.py    # Main script
 └── README.md            # This file
 ```
 
