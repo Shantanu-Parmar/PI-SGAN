@@ -41,7 +41,7 @@ To run inference with a trained model:
 - Modify `train_cmra_gan.py` to call `gan.infer(dataloader)` with the test dataset.
 - Run the script:
   ```bash
-  python train_cmra_gan.py
+  python StrCGAN.py
   ```
 - Results are saved in the `inferences` directory, with metrics in `test_metrics.csv`.
 
