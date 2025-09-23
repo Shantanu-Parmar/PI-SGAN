@@ -1,16 +1,8 @@
 # StrCGAN
 
 ## Overview
-StrCGAN (Structural Conditional Generative Adversarial Network) is a sophisticated deep learning framework designed for image-to-image translation and enhancement, with a particular focus on astronomical and medical imaging tasks. This framework leverages the power of Generative Adversarial Networks (GANs) to transform low-resolution or noisy images—such as those captured by the Mobil telescope—into high-resolution or enhanced versions by incorporating reference data. The architecture emphasizes structural consistency and employs attention mechanisms to prioritize critical image features, making it highly effective for applications requiring precise detail preservation and quality improvement.
-
-GANs operate on a two-player game principle involving a generator and a discriminator. The generator synthesizes images from random noise or input data, while the discriminator evaluates their authenticity against real images. In StrCGAN, this adversarial process is conditioned on structural and reference information, enabling the model to learn complex mappings while maintaining fidelity to the input’s inherent structure. This approach is particularly valuable in scenarios where traditional enhancement techniques fail to capture fine details or contextual relationships, such as in celestial object imaging or medical diagnostics.
-
-## Features
-- **Conditional GAN Architecture:** Utilizes multiple generators and discriminators to enforce cycle consistency and identity preservation.
-- **Attention Mechanism:** Incorporates attention layers to focus on relevant structural details during image generation.
-- **Metric Evaluation:** Computes PSNR, SSIM, FID, Inception Score, LPIPS, and confidence metrics for quantitative assessment.
-- **Checkpoint Support:** Allows saving and resuming training from checkpoints for seamless experimentation.
-- **Inference Capability:** Generates enhanced images and saves detailed metrics for analysis.
+StrCGAN (Stellar Cyclic Generative Adversarial Network) is an advanced deep learning framework designed for the restoration and enhancement of low-resolution astrophotography images, with a focus on reconstructing high-fidelity representations of celestial objects. Tailored for datasets like MobilTelesco—a smartphone-based astrophotography collection—StrCGAN addresses the challenges of limited resolution, atmospheric distortion, and feature sparsity, where critical stellar morphologies (e.g., stars, galaxies, nebulae) are obscured by background noise. Building on the foundation of CycleGAN, StrCGAN extends traditional 2D image-to-image translation with innovative features: 3D convolutional layers to capture volumetric spatial correlations, multi-spectral fusion to align optical and near-infrared (NIR) domains, and astrophysical regularization modules to preserve stellar morphology. Guided by ground-truth references from multi-mission all-sky surveys (spanning optical to NIR), StrCGAN produces visually sharper and physically consistent reconstructions, outperforming standard GAN models in astrophysical image enhancement.
+The framework leverages a multi-resolution attention mechanism to focus on sparse, low-contrast features, enhancing reconstruction quality efficiently. This makes StrCGAN particularly suited for astronomical analysis, where high-fidelity imaging is crucial for tracking cosmic evolution and identifying stellar details.
 
 ## Installation
 1. Clone the repository:
