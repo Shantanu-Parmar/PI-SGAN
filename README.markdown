@@ -1,7 +1,9 @@
 # StrCGAN
 
 ## Overview
-StrCGAN (Structural Conditional Generative Adversarial Network) is a deep learning framework designed for image-to-image translation and enhancement, particularly tailored for astronomical or medical imaging tasks. This repository contains the implementation of a GAN-based model that leverages structural consistency and attention mechanisms to improve the quality of low-resolution or noisy images (e.g., Mobil telescope images) by translating them into high-resolution or enhanced versions using reference data.
+StrCGAN (Structural Conditional Generative Adversarial Network) is a sophisticated deep learning framework designed for image-to-image translation and enhancement, with a particular focus on astronomical and medical imaging tasks. This framework leverages the power of Generative Adversarial Networks (GANs) to transform low-resolution or noisy images—such as those captured by the Mobil telescope—into high-resolution or enhanced versions by incorporating reference data. The architecture emphasizes structural consistency and employs attention mechanisms to prioritize critical image features, making it highly effective for applications requiring precise detail preservation and quality improvement.
+
+GANs operate on a two-player game principle involving a generator and a discriminator. The generator synthesizes images from random noise or input data, while the discriminator evaluates their authenticity against real images. In StrCGAN, this adversarial process is conditioned on structural and reference information, enabling the model to learn complex mappings while maintaining fidelity to the input’s inherent structure. This approach is particularly valuable in scenarios where traditional enhancement techniques fail to capture fine details or contextual relationships, such as in celestial object imaging or medical diagnostics.
 
 ## Features
 - **Conditional GAN Architecture:** Utilizes multiple generators and discriminators to enforce cycle consistency and identity preservation.
